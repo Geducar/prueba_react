@@ -1,7 +1,7 @@
 # Prueba React.JS Geducar
 ## Instrucciones
 La prueba deberá publicarse en un repositorio publico de Github o Gitlab con instrucciones para poder visualizarlo ej: `npm run dev/build`
-Al terminar el ejercicio se debe enviar un correo a work@geducar.com con el asunto `Prueba ReactJS - Geducar` indicando en el cuerpo la url de repositorio publicado y el tiempo estimado que les tomó realizarlo.
+Al terminar el ejercicio se debe enviar un correo a tech@geducar.com con el asunto `Prueba ReactJS - Geducar` indicando en el cuerpo la url de repositorio publicado, el tiempo estimado que les tomó realizarlo y adjuntando su CV.
 
 Se proporcionaran 3 endpoints de `jsonplaceholder` para poder consumir datos y mostrarlos en el proyecto; se da la libertad de utilizar cualquier otro recurso a parte de los descritos en esta página para poder realizar el ejercicio, este ejercicio es valido aun estando incompleto, lo que se requiere es medir el conocimiento de ReactJS y como utiliza las herramientas disponibles.
 
