@@ -5,7 +5,7 @@ Al terminar el ejercicio se debe enviar un correo a tech@geducar.com con el asun
 
 Se proporcionaran 3 endpoints de `jsonplaceholder` para poder consumir datos y mostrarlos en el proyecto; se da la libertad de utilizar cualquier otro recurso a parte de los descritos en esta página para poder realizar el ejercicio, este ejercicio es valido aun estando incompleto, lo que se requiere es medir el conocimiento de ReactJS y como utiliza las herramientas disponibles.
 
-Fecha Limite: `19/02/2020 12:00 PM UTC-6`
+Fecha Limite: `19/02/2021 12:00 PM UTC-6`
 ## Funcionalidades
 
  - Mostrar listado de usuarios: https://jsonplaceholder.typicode.com/users
